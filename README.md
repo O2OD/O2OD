@@ -1,15 +1,5 @@
-
-### 👋 Hello, I'm OZOD!
-
----
-
-### About Me
-
-Backend Developer with experience in  
-[`Python`](https://www.python.org/)  
-[`FastAPI`](https://fastapi.tiangolo.com/)  
-[`Django`](https://docs.djangoproject.com/)  
-[`PostgreSQL`](https://www.postgresql.org/docs/)  
-[`aiogram`](https://docs.aiogram.dev/)  
-I am currently focused on building fast RESTful APIs and learning database architecture. 
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://docs.djangoproject.com/)
